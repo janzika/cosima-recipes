@@ -20,13 +20,13 @@ Just raise [an issue](https://github.com/COSIMA/cosima-recipes/issues) explainin
 
 ## Repository contents
 
-### [Tutorials](https://cosima-recipes.readthedocs.io/en/latest/tutorials/index.html)
+### [Tutorials](https://cosima-recipes.readthedocs.io/en/latest/tutorials.html)
 
 The notebook `COSIMA_CookBook_Tutorial.ipynb` outlines the basic philosophy of the `cosima-cookbook`. This is the best place to start if you are not familiar with the `cosima-cookbook`. Also included here are some other tutorials, either related to the cookbook (e.g., `Make_Your_Own_Database.ipynb`) or more general (`Making_Maps_with_Cartopy.ipynb`).
 
 Don't miss out the <a href="https://nbviewer.jupyter.org/github/COSIMA/cosima-recipes/blob/master/Tutorials/Using_Explorer_tools.ipynb" target="_blank">tutorial</a> about using `cosima-cookbook`'s `explore` submodule to find out about available experiments and variables in a database. (The `explorer` tutorial is better viewed either via nbviewer or by running the jupyter notebook yourself.)
 
-### [Documented Examples](https://cosima-recipes.readthedocs.io/en/latest/documented_examples/index.html)
+### [Documented Examples](https://cosima-recipes.readthedocs.io/en/latest/documented_examples.html)
 Νotebooks for simple and not-so-simple diagnostics which are well-documented and explained. If you can find an example that suits your purpose, this is the best place to start.
 
 ### ACCESS-OM2-GMD-Paper-Figs
@@ -34,6 +34,3 @@ Don't miss out the <a href="https://nbviewer.jupyter.org/github/COSIMA/cosima-re
 
 ### Contributed Examples
 Α number of examples which are valuable, but not commented sufficiently to make it into DocumentedExamples. An aspirational goal is to eliminate this class of example.
-
-### Sandbox
-Α hotch-potch of old contributed files that may or not be useful or operational. **Use at your own risk!**
